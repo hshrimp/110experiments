@@ -1,0 +1,82 @@
+wiki_aa_50:
+capital-common-countries.txt:
+ACCURACY TOP1: 40.92% (277/677)
+city-in-state.txt:
+ACCURACY TOP1: 26.29% (46/175)
+family.txt:
+ACCURACY TOP1: 16.54% (45/272)
+Questions seen/total: 100.00% (1124/1124)
+Semantic accuracy: 32.74%  (368/1124)
+Total accuracy: 32.74%  (368/1124)
+=============================================================
+wiki_aa_100:
+capital-common-countries.txt:
+ACCURACY TOP1: 65.14% (441/677)
+city-in-state.txt:
+ACCURACY TOP1: 58.86% (103/175)
+family.txt:
+ACCURACY TOP1: 31.99% (87/272)
+Questions seen/total: 100.00% (1124/1124)
+Semantic accuracy: 56.14%  (631/1124)
+Total accuracy: 56.14%  (631/1124)
+==============================================================
+wiki_aa_200:
+capital-common-countries.txt:
+ACCURACY TOP1: 75.48% (511/677)
+city-in-state.txt:
+ACCURACY TOP1: 70.86% (124/175)
+family.txt:
+ACCURACY TOP1: 36.40% (99/272)
+Questions seen/total: 100.00% (1124/1124)
+Semantic accuracy: 65.30%  (734/1124)
+Total accuracy: 65.30%  (734/1124)
+==============================================================
+wiki_aa_300:
+capital-common-countries.txt:
+ACCURACY TOP1: 78.14% (529/677)
+city-in-state.txt:
+ACCURACY TOP1: 71.43% (125/175)
+family.txt:
+ACCURACY TOP1: 31.25% (85/272)
+Questions seen/total: 100.00% (1124/1124)
+Semantic accuracy: 65.75%  (739/1124)
+Total accuracy: 65.75%  (739/1124)
+=====================================================================
+x_max=100:
+wiki_aabcde_300:
+capital-common-countries.txt:
+ACCURACY TOP1: 84.34% (571/677)
+city-in-state.txt:
+ACCURACY TOP1: 76.57% (134/175)
+family.txt:
+ACCURACY TOP1: 45.59% (124/272)
+Questions seen/total: 100.00% (1124/1124)
+Semantic accuracy: 73.75%  (829/1124)
+Total accuracy: 73.75%  (829/1124)
+=====================================================================
+x_max=40:
+wiki_aabcde_300:
+capital-common-countries.txt:
+ACCURACY TOP1: 91.73% (621/677)
+city-in-state.txt:
+ACCURACY TOP1: 89.14% (156/175)
+family.txt:
+ACCURACY TOP1: 38.24% (104/272)
+Questions seen/total: 100.00% (1124/1124)
+Semantic accuracy: 78.38%  (881/1124)
+Total accuracy: 78.38%  (881/1124)
+=====================================================================
+x_max=10:
+capital-common-countries.txt:
+ACCURACY TOP1: 90.55% (613/677)
+city-in-state.txt:
+ACCURACY TOP1: 90.29% (158/175)
+family.txt:
+ACCURACY TOP1: 37.87% (103/272)
+Questions seen/total: 100.00% (1124/1124)
+Semantic accuracy: 77.76%  (874/1124)
+Total accuracy: 77.76%  (874/1124)
+
+
+
+
